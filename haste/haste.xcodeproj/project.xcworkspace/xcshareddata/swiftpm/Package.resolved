@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PolygonioSwift",
+        "repositoryURL": "https://github.com/toniremi/PolygonioSwift",
+        "state": {
+          "branch": null,
+          "revision": "254f8a772fe0c36e14822044acaa4877358eda5f",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
